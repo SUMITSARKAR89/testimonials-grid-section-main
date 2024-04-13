@@ -13,7 +13,9 @@
     --Lightgrayishblue: hsl(210, 46%, 95%);
 
   }
-.attribution { font-size: 18px; font-weight: 600; text-align: center;
+.attribution { font-size: 18px; font-weight: 600; 
+              text-align: center;
+              margin-top:5%;
 margin-bottom: 2rem; }
 .attribution a { 
     color: hsl(228, 45%, 44%);
